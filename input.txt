@@ -1,0 +1,4 @@
+igor 25
+sasha 30 
+rita 45
+gosha 45
