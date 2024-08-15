@@ -9,6 +9,7 @@ main()
 	printf("Hello Java\n");
 	printf("Hello Spring\n");
 	printf("Hello C#\n");
+	printf("Hello Ruby\n");
 	//add read file
 	getch();
 }
