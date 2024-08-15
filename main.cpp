@@ -6,5 +6,6 @@ main()
 {
 	setlocale(LC_ALL,"rus");
 	printf("Hello\n");
+	printf("Hello C++\n");
 	getch();
 }
