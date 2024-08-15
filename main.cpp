@@ -5,6 +5,6 @@
 main()
 {
 	setlocale(LC_ALL,"rus");
-	
+	printf("Hello\n");
 	getch();
 }
